@@ -1,12 +1,9 @@
 # Project 8: Going to the Movies
-## Under Construction. Dont start working on it before release
-
 
 ## Clarifications/Corrections
 
-* Oct 27: we cover plotting in the labs on Oct 31 or Nov 1, so just leave the relevant questions until Lab-P8b is released.
-* Oct 29: fixed typo in hint for Q16
-* Oct 29: fixed hint for Q29 and Q30 to include axis label
+* **3/13/2020 - 2:00 pm** Stage 2 questions updated. Redownload test.py.
+* **3/25/2020 - 5:30 pm** Bug fixed in test.py. Redownload if you faced any issues with Q11 - Q14.
 
 ## Introduction
 
@@ -54,8 +51,8 @@ either an actor or a director or a movie title.
 ## The Stages
 
 This project is bigger than usual, so its broken into two parts, and
-you have more time.  We recommend trying to complete stage 1 within
-one week so you have time for stage two.
+you have more time.  We recommend trying to complete stage 1 soon so
+you have at least a week for stage two.
 
 * [Stage 1](stage1.md): combine the data from the movie and mapping files into a more useful format.
 * [Stage 2](stage2.md): use the combined data to answer questions about movies, directors, and actors.
